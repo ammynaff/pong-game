@@ -5,5 +5,5 @@ Pong was the first home video game I played. I am now using JavaScript and HTML5
 # Instructions
 Clone repo or download and open in your text editor of choice.  You can run the code and play the game from there.  
 
-#Contributions
+# Contributions
 Meth Meth Method, YouTube Channel.  
