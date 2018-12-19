@@ -1,5 +1,5 @@
 # Pong-Game
-NOT FINISHED, working project!  Stay Tuned 
+NOT FINISHED, working project! 
 Pong was the first home video game I played. I am now using JavaScript and HTML5 Canvas to rebuild this fun and iconic game.  
 
 # Instructions
